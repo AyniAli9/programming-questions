@@ -10,7 +10,11 @@
     "**/CVS": true,
     ".classpath": true,
     ".project": true,
-    "bin/": true
+    "bin/": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
   },
   "java.configuration.updateBuildConfiguration": "automatic",
   "java.saveActions.organizeImports": false
